@@ -4,7 +4,7 @@ date: 2020-08-15
 draft: false
 description: "All the front matter variables available in Blowfish."
 slug: "getting-started"
-tags: ["installation", "docs"]
+# tags: ["installation", "docs"]
 series: ["Documentation"]
 series_order: 3
 ---

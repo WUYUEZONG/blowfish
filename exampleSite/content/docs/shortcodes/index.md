@@ -4,7 +4,7 @@ date: 2020-08-11
 draft: false
 description: "All the shortcodes available in Blowfish."
 slug: "shortcodes"
-tags: ["shortcodes", "mermaid", "icon", "lead", "docs"]
+# tags: ["shortcodes", "mermaid", "icon", "lead", "docs"]
 series: ["Documentation"]
 series_order: 8
 ---

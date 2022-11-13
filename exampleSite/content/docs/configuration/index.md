@@ -4,7 +4,7 @@ date: 2020-08-14
 draft: false
 description: "All the configuration variables available in Blowfish."
 slug: "configuration"
-tags: ["config", "docs"]
+# tags: ["config", "docs"]
 series: ["Documentation"]
 series_order: 4
 ---

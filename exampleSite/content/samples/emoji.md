@@ -3,7 +3,7 @@ title: "Emoji :parachute:"
 date: 2019-03-05
 description: "Guide to Emoji usage in Blowfish"
 summary: "📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸"
-tags: ["emoji", "sample"]
+# tags: ["emoji", "sample"]
 type: 'sample'
 ---
 
