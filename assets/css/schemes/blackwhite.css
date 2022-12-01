@@ -29,10 +29,10 @@
   --color-primary-300: 34, 211, 238; /*big code = if */
   --color-primary-400: 203, 213, 225; /*tag text, page current*/
   --color-primary-500: 192, 192, 192;
-  --color-primary-600: 203, 213, 225; /*tag boder*/
+  --color-primary-600: 100, 116, 139; /*tag boder*/
   --color-primary-700: 128, 128, 128;
   --color-primary-800: 8, 145, 178; /* serice*/
-  --color-primary-900: 15, 23, 42; /*alert*/
+  --color-primary-900: 50, 50, 50; /*alert*/
   --color-p-50: rgba(239, 246, 255);
   --color-p-100: rgba(219, 234, 254);
   --color-p-200: rgba(191, 219, 254);
