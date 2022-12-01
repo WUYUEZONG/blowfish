@@ -2,15 +2,15 @@
 :root {
   --color-neutral: 255, 255, 255;
   /* Gray */
-  --color-neutral-50: 255, 250, 250;
-  --color-neutral-100: 255, 255, 255;
+  --color-neutral-50: 240, 240, 240;
+  --color-neutral-100: 230, 230, 230;
   --color-neutral-200: 245, 245, 245;
   --color-neutral-300: 220, 220, 220;
-  --color-neutral-400: 211, 211, 211;
-  --color-neutral-500: 192, 192, 192;
+  --color-neutral-400: 122, 122, 122; /*path / date*/
+  --color-neutral-500: 51, 65, 85;
   --color-neutral-600: 169, 169, 169;
-  --color-neutral-700: 128, 128, 128;
-  --color-neutral-800: 105, 105, 105;
+  --color-neutral-700: 20, 20, 20; /*big code, w-text*/
+  --color-neutral-800: 10, 10, 10; /* bakcground */
   --color-neutral-900: 0, 0, 0;
   --color-n-50: rgba(248, 250, 252);
   --color-n-100: rgba(241, 245, 249);
@@ -24,15 +24,15 @@
   --color-n-900: rgba(15, 23, 42);
   /* Blue */
   --color-primary-50: 255, 250, 250;
-  --color-primary-100: 255, 255, 255;
+  --color-primary-100: 59, 130, 246; /*alert w*/
   --color-primary-200: 245, 245, 245;
-  --color-primary-300: 220, 220, 220;
-  --color-primary-400: 211, 211, 211;
+  --color-primary-300: 34, 211, 238; /*big code = if */
+  --color-primary-400: 203, 213, 225; /*tag text, page current*/
   --color-primary-500: 192, 192, 192;
-  --color-primary-600: 169, 169, 169;
+  --color-primary-600: 203, 213, 225; /*tag boder*/
   --color-primary-700: 128, 128, 128;
-  --color-primary-800: 105, 105, 105;
-  --color-primary-900: 0, 0, 0;
+  --color-primary-800: 8, 145, 178; /* serice*/
+  --color-primary-900: 15, 23, 42; /*alert*/
   --color-p-50: rgba(239, 246, 255);
   --color-p-100: rgba(219, 234, 254);
   --color-p-200: rgba(191, 219, 254);
@@ -48,10 +48,10 @@
   --color-secondary-100: 255, 255, 255;
   --color-secondary-200: 245, 245, 245;
   --color-secondary-300: 220, 220, 220;
-  --color-secondary-400: 211, 211, 211;
+  --color-secondary-400: 239, 246, 255; /*line code*/
   --color-secondary-500: 192, 192, 192;
-  --color-secondary-600: 169, 169, 169;
-  --color-secondary-700: 128, 128, 128;
+  --color-secondary-600: 8, 145, 178; /*big code number */
+  --color-secondary-700: 30, 41, 59; /*line code w*/
   --color-secondary-800: 105, 105, 105;
   --color-secondary-900: 0, 0, 0;
   --color-s-50: rgba(236, 254, 255);

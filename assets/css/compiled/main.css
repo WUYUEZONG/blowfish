@@ -1824,8 +1824,8 @@ select {
 }
 
 .from-neutral {
-  --tw-gradient-from: rgba(var(--color-neutral), 1);
-  --tw-gradient-to: rgba(var(--color-neutral), 0);
+  --tw-gradient-from: rgba(var(--color-neutral), 0);
+  --tw-gradient-to: rgba(var(--color-neutral), 1);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
