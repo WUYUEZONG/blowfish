@@ -1,0 +1,14 @@
+{{/* Appearance switch */}}
+{{ if .Site.Params.footer.showAppearanceSwitcher | default false }}
+<div
+    class="{{ if .Site.Params.footer.showScrollToTop | default true -}} ltr:mr-14 rtl:ml-14 {{- end }} cursor-pointer text-sm text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400">
+    <button id="appearance-switcher" type="button">
+        <div class="flex items-center justify-center h-12 dark:hidden">
+            {{ partial "icon.html" "moon" }}
+        </div>
+        <div class="items-center justify-center hidden h-12 dark:flex">
+            {{ partial "icon.html" "sun" }}
+        </div>
+    </button>
+</div>
+{{ end }}

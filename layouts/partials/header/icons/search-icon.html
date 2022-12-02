@@ -1,0 +1,5 @@
+{{ if .content.Site.Params.enableSearch | default false }}
+<button id="{{ .name }}" class="text-base hover:text-primary-600 dark:hover:text-primary-400" title="{{ i18n " search.open_button_title" }}">
+    {{ partial "icon.html" "search" }}
+</button>
+{{ end }}

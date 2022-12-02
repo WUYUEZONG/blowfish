@@ -1,0 +1,11 @@
+{{/* Appearance switch */}}
+{{ if .Site.Params.footer.showAppearanceSwitcher | default false }}
+<button id="appearance-switcher-mobile" type="button" style="margin-right:5px">
+    <div class="flex items-center justify-center h-12 dark:hidden">
+        {{ partial "icon.html" "moon" }}
+    </div>
+    <div class="items-center justify-center hidden h-12 dark:flex">
+        {{ partial "icon.html" "sun" }}
+    </div>
+</button>
+{{ end }}
