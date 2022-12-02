@@ -1,4 +1,6 @@
 article:
+  one_of_series: "系列文章之一"
+  current_article_of_series: "当前阅读"
   anchor_label: "锚点"
   date: "{{ .Date }}"
   date_updated: "上次编辑: {{ .Date }}"

@@ -1,4 +1,6 @@
 article:
+  one_of_series: "This article is part of a series"
+  current_article_of_series: "This Article"
   anchor_label: "Anchor"
   date: "{{ .Date }}"
   date_updated: "Updated: {{ .Date }}"
