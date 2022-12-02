@@ -4,11 +4,11 @@
   /* Gray */
   --color-neutral-50: 245, 245, 245; /*codebg-w*/
   --color-neutral-100: 230, 230, 230;
-  --color-neutral-200: 245, 245, 245;
+  --color-neutral-200: 190, 190, 190;
   --color-neutral-300: 220, 220, 220;
   --color-neutral-400: 122, 122, 122; /*path / date*/
   --color-neutral-500: 90, 90, 90; /*line*/
-  --color-neutral-600: 169, 169, 169;
+  --color-neutral-600: 80, 80, 80; /*copy*/
   --color-neutral-700: 30, 30, 30; /*big code, w-text*/
   --color-neutral-800: 10, 10, 10; /* bakcground */
   --color-neutral-900: 0, 0, 0;

@@ -2603,7 +2603,7 @@ body:has(#menu-controller:checked) {
 .chroma .il,
 .chroma .mo {
   --tw-text-opacity: 1;
-  color: rgba(var(--color-secondary-400), var(--tw-text-opacity));
+  color: rgba(var(--color-primary-300), var(--tw-text-opacity));
 }
 
 .dark .chroma .kt,.dark 
